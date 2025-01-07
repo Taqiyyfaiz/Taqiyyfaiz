@@ -1,4 +1,4 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+<img src="github_banner.png" alt="GitHub Banner" width="100%" />
 
 # Hello World!, I'm Taqiyy Faiz, a Software Developer 👋🏼:
 🛜 currently Learning Building Projects in React <br>👨🏼‍🎓 studying Computer Sciecne Engineering Specialization in Data Sciecne & Artificial Intelligence at Dr. MGR University<br>👨🏼‍💻 Exploring a Full Stack <br>
