@@ -1,11 +1,20 @@
-# 💫 About Me:
-👋 Hey, I’m Taqi Faiz – a CSE student (3rd year) passionate about Full Stack Development.<br>💻 I build, break, debug, and learn – then do it all over again.<br>⚙️ Tech isn’t just a career path for me; it’s a mindset.<br>🚀 Love clean code, meaningful builds, and the grind of continuous improvement.<br><br>🔍 Actively learning: MERN stack | APIs | Deployment | System Design<br>📫 Let’s collaborate or geek out over code:<br>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,tailwind,python,java,gcp,git,linux,nextjs,redhat)](https://skillicons.dev)
+👋 **Hi, I’m Taqi Faiz**
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/taqiyy-faiz/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/taqi_faiz_dev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:taqiyyfaiz@gmail.com) 
+💻 I’m a **Computer Science student and aspiring Software Engineer**, passionate about **AI, automation, and building real-world solutions**.
 
+🚀 **Current focus:**
+
+* Developing projects using **AI agents, smart simulations, and full-stack technologies**
+* Exploring **Python, JavaScript, React, and AI frameworks** to strengthen my development skills
+* Learning **problem-solving, system design, and project architecture** for scalable software
+
+🎯 **My goals:**
+
+* To become a **future-ready software engineer** capable of solving impactful problems
+* To combine **software development with AI and automation** for building intelligent systems
+* To continuously **learn, build, and share** my projects for the community
+
+🌱 **Always growing with curiosity, discipline, and a vision to create meaningful impact through technology.**
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Taqiyyfaiz&icon=5&color=0)](https://visitcount.itsvg.in)
