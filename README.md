@@ -1,19 +1,27 @@
-# Hi! Taqi Faiz Here | *I tell Stories through Data*   👋🏻
-**Data Scientist**
+#### Hey, my name is Taqi Faiz 👋
 
-I am a Computer Engineering student specializing in Data Science and Artificial Intelligence, stepping into the Data Analytics field. My focus is on extracting actionable business insights from raw data using logical analysis and clean visualizations.
+I am an aspiring Data Analyst finishing my Computer Engineering degree, specializing in Data Science and AI. I also have dedicated training in Business Analytics and Power BI.
 
-## About Me
-* **Current Status:** Final-year Computer Engineering student graduating in mid-2026.
-* **Core Focus:** Data Analytics, Business Intelligence, Data Pipelines and Machine Learning.
-* **Specialized Training:** Business Analytics, Power BI Workshops.
-* **Objective:** To build analytical models and dashboards that answer real business questions and drive strategic decisions.
+My ultimate goal is to solve real business problems through efficient data analysis, helping companies make logical decisions while building a career I genuinely enjoy.
+
+- 🔭 I’m currently working on Excel & SQL Projects
+- 🌱 I’m currently learning SQL, Pandas, Power BI
+
+🏢 Documenting on LinkedIn ➡︎ [@taqiyy-faiz]([https://www.linkedin.com/in/taqiyy-faiz/])
 
 
-## Technical Arsenal
-* **Visualization & BI:** Power BI
-* **Analysis:** Business Analytics, Data Cleaning, Exploratory Data Analysis
-* **Core Engineering:** Python, SQL, AI, Machine Learning 
 
-## Let's Connect
-* **LinkedIn:** [https://www.linkedin.com/in/taqiyy-faiz/]
+<!--
+**mochen862/mochen862** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
